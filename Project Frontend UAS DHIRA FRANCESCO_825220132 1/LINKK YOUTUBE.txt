@@ -1,0 +1,19 @@
+NAMA: DHIRA FRANCESCO
+NIM:825220132
+link: https://www.youtube.com/watch?v=l2ZOqUx9_Ac&ab_channel=Dhira-unt
+untuk web utama: user.php
+web pelengkap: 
+1. beritauser.php
+2. destinasi.php
+3. pusatolehuser.php
+4.restoranuser.php
+5.userpage2.php
+
+code pelengkap yaitu include agar code utama tidak terlalu panjang:
+konten.php
+kontendestinasi.php
+kontenoleh.php
+kontenresto.php
+testimonial.php
+traveluser.php
+
